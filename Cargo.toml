@@ -1,0 +1,9 @@
+[package]
+name = "versioned-feature-core"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "Minimal logic for versioned features"
+repository = "https://github.com/dashpay/versioned-feature-core"
+
+[dependencies]
